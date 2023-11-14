@@ -7,19 +7,35 @@ Das technische Augenmerk hier auf dem programmatischen Bezug von Informationen a
 #letzte lernpriode wurde gelöscht
 
 # Arbeitspaket 24.10
-- [ ] 319 Strings
-- [ ] 319 Arrays
-- [ ] 319 operatoren
+- [x] 319 Strings
+- [x] 319 Arrays
+- [x] 319 operatoren
 
-#letzte lernpreiode wurde gelöscht
+#letzte lernperiode wurde gelöscht
 
-# alle Ziele wurden erreicht. unser Modulauftrag haben wir schon fertig (nur den Code), so dass wir uns an ein Overlay heranmachen können. Ich habe heute grösstenteils konzentriert gearbeitet und bin glücklich mit dem was ich erreicht habe.
+alle Ziele wurden erreicht. unser Modulauftrag haben wir schon fertig (nur den Code), so dass wir uns an ein Overlay heranmachen können. Ich habe heute grösstenteils konzentriert gearbeitet und bin glücklich mit dem was ich erreicht habe.
 
 # Arbeitspaket 14.11
 
-- [ ] Fremdwährungsrechner letzte Änderungen/abschliessen
-- [ ] Projektsuche 20'
-- [ ] Projekt kickoff
+- [x] Fremdwährungsrechner letzte Änderungen/abschliessen
+- [x] Projektsuche 20'
+- [x] Projekt kickoff
       sorry ging nicht anders habe wirklich keine idde für ein neues Projekt
+
+Ich habe heute meinen Fremdwährungsrechner abgeschlossen. Meine Projektsuche hat sich ziemlich schnell erledigt, da es Bedarf im Projekt aus IPA gab. ich habe mich weitergebildet in den Themen: Winforms(vor dem input),Interfaces und Webbrosers. Ich habe auch je nach dem kleine test mit meinen Erfahrungen gemacht.
+
+#Arbeitspaket 21.11
+
+- [ ] Weiterarbeiten am Projekt aus IPA
+      
+
+
+
+
+
+
+
+
+
 
 
