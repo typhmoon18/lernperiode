@@ -26,9 +26,13 @@ Ich habe heute meinen Fremdwährungsrechner abgeschlossen. Meine Projektsuche ha
 
 #Arbeitspaket 21.11
 
-- [ ] Weiterarbeiten am Projekt aus IPA
+- [x] Weiterarbeiten am Projekt aus IPA
       
+Wir sind beim Programmieren eines Punktesystems für unser projekt auf Probleme gestossen. Das Problem lag bei der Verbindung aus einem anderen COde und dem mit dem Punktesystem. Kurz vor Schluss haben wir das Problem gelöst und das Programm funktioniert nun einwandfrei.
 
+#Arbeitspaket 28.11
+
+- [ ] Witerarbeiten am Projekt aus IPA (Webserver)
 
 
 
