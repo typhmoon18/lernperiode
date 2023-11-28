@@ -32,7 +32,11 @@ Wir sind beim Programmieren eines Punktesystems für unser projekt auf Probleme 
 
 #Arbeitspaket 28.11
 
-- [ ] Witerarbeiten am Projekt aus IPA (Webserver)
+- [X] Witerarbeiten am Projekt aus IPA (Webserver)
+
+Wir sind heute leider nicht wirklich weitergekommen. Leider stecken wir immer noch bei der Entscheidung fest, wie wir das Projekt designen/übergeben sollen. Da unser wisse nbeschränkt ist, haben wir den Morgen mit Informationssuche verbracht.
+
+- [ ] Modul 162 Test vorbereitung
 
 
 
