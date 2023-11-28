@@ -30,12 +30,13 @@ Ich habe heute meinen Fremdwährungsrechner abgeschlossen. Meine Projektsuche ha
       
 Wir sind beim Programmieren eines Punktesystems für unser projekt auf Probleme gestossen. Das Problem lag bei der Verbindung aus einem anderen COde und dem mit dem Punktesystem. Kurz vor Schluss haben wir das Problem gelöst und das Programm funktioniert nun einwandfrei.
 
-#Arbeitspaket 28.11
+# Arbeitspaket 28.11
 
 - [X] Witerarbeiten am Projekt aus IPA (Webserver)
 
 Wir sind heute leider nicht wirklich weitergekommen. Leider stecken wir immer noch bei der Entscheidung fest, wie wir das Projekt designen/übergeben sollen. Da unser wisse nbeschränkt ist, haben wir den Morgen mit Informationssuche verbracht.
 
+# Arbeitspaket 5.12
 - [ ] Modul 162 Test vorbereitung
 
 
