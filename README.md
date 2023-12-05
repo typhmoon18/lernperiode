@@ -39,6 +39,13 @@ Wir sind heute leider nicht wirklich weitergekommen. Leider stecken wir immer no
 # Arbeitspaket 5.12
 - [ ] Modul 162 Test vorbereitung
 
+Unser Projekt in Ipa haben wir jetzt abgeschlossen. Ich habe den grössten Teil meiner Zeit heute mit der erweiterung meines Wissens in csharp verbracht. Am Kalender bin ich leider gescheitert.Ich konnte mich heute gut konzentrieren und habe mein Ziel(Das Üben vom 162) erreicht
+
+# Arbeitspakte 12.12
+- [ ] Modul 162 letzt Wiederholung und fragen mit Kollegen
+- [ ] Neues Projekt suchen
+- [ ] Eventuell noch zusatzarbeit für die kanti leisten weil 7 tests in 3 Tagen.
+
 
 
 
