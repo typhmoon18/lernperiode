@@ -42,9 +42,14 @@ Wir sind heute leider nicht wirklich weitergekommen. Leider stecken wir immer no
 Unser Projekt in Ipa haben wir jetzt abgeschlossen. Ich habe den grössten Teil meiner Zeit heute mit der erweiterung meines Wissens in csharp verbracht. Am Kalender bin ich leider gescheitert.Ich konnte mich heute gut konzentrieren und habe mein Ziel(Das Üben vom 162) erreicht
 
 # Arbeitspakte 12.12
-- [ ] Modul 162 letzt Wiederholung und fragen mit Kollegen
+- [x] Modul 162 letzt Wiederholung und fragen mit Kollegen
 - [ ] Neues Projekt suchen
-- [ ] Eventuell noch zusatzarbeit für die kanti leisten weil 7 tests in 3 Tagen.
+- [x] Eventuell noch zusatzarbeit für die kanti leisten weil 7 tests in 3 Tagen.
+Ich habe mich heute ausnahmsweise nur mit den Prüfungen beschäftigt. Zeit um ein neues Projekt zu suchen habe ich leider nicht mehr gefunden. Dafür habe ich den Grossteil von 162 jetzt verstanden, und habe fertig für Wirtschaft gelernt.
+
+# Arbeitspaket 17.12
+- [ ] Ideen sammeln für Neues Projekt
+- [ ] 
 
 
 
