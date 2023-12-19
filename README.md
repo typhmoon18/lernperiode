@@ -47,10 +47,9 @@ Unser Projekt in Ipa haben wir jetzt abgeschlossen. Ich habe den grössten Teil 
 - [x] Eventuell noch zusatzarbeit für die kanti leisten weil 7 tests in 3 Tagen.
 Ich habe mich heute ausnahmsweise nur mit den Prüfungen beschäftigt. Zeit um ein neues Projekt zu suchen habe ich leider nicht mehr gefunden. Dafür habe ich den Grossteil von 162 jetzt verstanden, und habe fertig für Wirtschaft gelernt.
 
-# Arbeitspaket 17.12
-- [ ] Ideen sammeln für Neues Projekt
-- [ ] 
+## Reflexion Lernperiode 2
 
+Gestartet habe ich mit Dem Fremdwährungsrecher. Diesen habe ich ziemlich schnell Fertig gestellt. Ich habe mich danach daran gemacht schnell ein neues Projekt zu finden, mit welchem ich mich weiterbilden konnte. Nur leider fiel mir das ziemlich schwer. Unter anderem weil wir ständig Tests von der Kanti aus hatten. Ich habe meistens die Chance ergriffen im Lernatelier für anstehende prüfungen zu lernen, da ich zuhause nicht so viel Zeit dafür habe. Im Grossen und ganzen haben wir da Trotzdem noch gut am Projekt aus IPA weitergearbeitet, welches schon geuploaded ist. Dieses haben wir aber erst seit kurzem abgeschlossen. Da wir letzte und diese wuche über ein dutzend Tests hatten gingen auch die letzten ILA Stunden für Prüfunsvorbereitung drauf. Was ich devinitif verändern will ist mein Pensum zwischen Schule und Informatik. Mein Ziel ist es i nzukunft mehr zu programmieren und weniger voci oder anderes zu lernen.
 
 
 
