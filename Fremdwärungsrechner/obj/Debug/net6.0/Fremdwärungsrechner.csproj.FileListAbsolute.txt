@@ -1,0 +1,14 @@
+C:\Users\sgerw\source\repos\Fremdwärungsrechner\Fremdwärungsrechner\bin\Debug\net6.0\Fremdwärungsrechner.exe
+C:\Users\sgerw\source\repos\Fremdwärungsrechner\Fremdwärungsrechner\bin\Debug\net6.0\Fremdwärungsrechner.deps.json
+C:\Users\sgerw\source\repos\Fremdwärungsrechner\Fremdwärungsrechner\bin\Debug\net6.0\Fremdwärungsrechner.runtimeconfig.json
+C:\Users\sgerw\source\repos\Fremdwärungsrechner\Fremdwärungsrechner\bin\Debug\net6.0\Fremdwärungsrechner.dll
+C:\Users\sgerw\source\repos\Fremdwärungsrechner\Fremdwärungsrechner\bin\Debug\net6.0\Fremdwärungsrechner.pdb
+C:\Users\sgerw\source\repos\Fremdwärungsrechner\Fremdwärungsrechner\obj\Debug\net6.0\Fremdwärungsrechner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sgerw\source\repos\Fremdwärungsrechner\Fremdwärungsrechner\obj\Debug\net6.0\Fremdwärungsrechner.AssemblyInfoInputs.cache
+C:\Users\sgerw\source\repos\Fremdwärungsrechner\Fremdwärungsrechner\obj\Debug\net6.0\Fremdwärungsrechner.AssemblyInfo.cs
+C:\Users\sgerw\source\repos\Fremdwärungsrechner\Fremdwärungsrechner\obj\Debug\net6.0\Fremdwärungsrechner.csproj.CoreCompileInputs.cache
+C:\Users\sgerw\source\repos\Fremdwärungsrechner\Fremdwärungsrechner\obj\Debug\net6.0\Fremdwärungsrechner.dll
+C:\Users\sgerw\source\repos\Fremdwärungsrechner\Fremdwärungsrechner\obj\Debug\net6.0\refint\Fremdwärungsrechner.dll
+C:\Users\sgerw\source\repos\Fremdwärungsrechner\Fremdwärungsrechner\obj\Debug\net6.0\Fremdwärungsrechner.pdb
+C:\Users\sgerw\source\repos\Fremdwärungsrechner\Fremdwärungsrechner\obj\Debug\net6.0\Fremdwärungsrechner.genruntimeconfig.cache
+C:\Users\sgerw\source\repos\Fremdwärungsrechner\Fremdwärungsrechner\obj\Debug\net6.0\ref\Fremdwärungsrechner.dll
